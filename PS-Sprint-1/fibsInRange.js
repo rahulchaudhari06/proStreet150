@@ -1,7 +1,7 @@
 function fibona(n, posn) {
   let fibs = [];
   if (n == 0) {
-    fibs.push(0);
+    fibs.push();
   } else if (n == 1) {
     fibs.push(0, 1);
   }
